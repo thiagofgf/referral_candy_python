@@ -4,7 +4,7 @@ import time
 
 _DEFAULT_API_URL = 'https://my.referralcandy.com/api/v1/'
 _API_METHODS = {
-    'get' : ['verify', 'referrals', 'referrer', 'contacts'],
+    'get' : ['verify','rewards', 'referrals', 'referrer', 'contacts'],
     'post': ['purchase', 'referral', 'signup', 'invite']
 }
 
